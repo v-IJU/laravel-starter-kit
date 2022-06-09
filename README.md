@@ -42,19 +42,19 @@ Some ScreenShots
 
 ## Front Page
 
-![alt text](assets/screenshots/front.JPG "front page")
+![alt text](/assets/screenshots/front.JPG "front page")
 
 ## Admin Login
 
-![alt text](assets/screenshots/adminlogin.JPG "front page")
+![alt text](/assets/screenshots/adminlogin.JPG "front page")
 
 ## Dashboard
 
-![alt text](assets/screenshots/dashboard.JPG "front page")
+![alt text](/assets/screenshots/dashboard.JPG "front page")
 
 ## LFM
 
-![alt text](assets/screenshots/lfm.JPG "front page")
+![alt text](/assets/screenshots/lfm.JPG "front page")
 
 ## License
 
