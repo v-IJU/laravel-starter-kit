@@ -42,15 +42,15 @@ Some ScreenShots
 
 ## Front Page
 
-![alt text](/assets/screenshots/front.JPG "front page")
+![alt text](public/assets/screenshots/front.JPG "front page")
 
 ## Admin Login
 
-![alt text](/assets/screenshots/adminlogin.JPG "front page")
+![alt text](public/assets/screenshots/adminlogin.JPG "front page")
 
 ## Dashboard
 
-![alt text](/assets/screenshots/dashboard.JPG "front page")
+![alt text](public/assets/screenshots/dashboard.JPG "front page")
 
 ## LFM
 
