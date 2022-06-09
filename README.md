@@ -54,7 +54,7 @@ Some ScreenShots
 
 ## LFM
 
-![alt text](/assets/screenshots/lfm.JPG "front page")
+![alt text](public/assets/screenshots/lfm.JPG "front page")
 
 ## License
 
