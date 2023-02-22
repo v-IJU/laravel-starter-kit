@@ -169,6 +169,7 @@ class Permissionseeder extends Seeder
                 'slug'=>'permission.store',
                 'group'=>'Permission'
             ],
+        ];
 
             $mailconfig=[
                 [
@@ -186,8 +187,8 @@ class Permissionseeder extends Seeder
                     'slug'=>'lfm.view',
                     'group'=>'Lfm'
                 ],
-            ]
-        ];
+            ];
+        
 
         $Totalpermission=array_merge( $mailconfig, $permissionsper,$rolepermission, $userpermission, $siteuserpermission);
 

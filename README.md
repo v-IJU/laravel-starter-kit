@@ -30,6 +30,10 @@ Run Migartion and Seeder Files
 
 ### `php artisan migrate:fresh --seed`
 
+After Migration Go to config app.php
+
+### `uncomment Permissionprovider`
+
 Run Server
 
 ### `php artisan serve`

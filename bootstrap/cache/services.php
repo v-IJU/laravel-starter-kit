@@ -43,9 +43,8 @@
     39 => 'App\\Providers\\AuthServiceProvider',
     40 => 'App\\Providers\\EventServiceProvider',
     41 => 'App\\Providers\\RouteServiceProvider',
-    42 => 'App\\Providers\\PermissionServiceProvider',
-    43 => 'Maatwebsite\\Excel\\ExcelServiceProvider',
-    44 => 'Rap2hpoutre\\LaravelLogViewer\\LaravelLogViewerServiceProvider',
+    42 => 'Maatwebsite\\Excel\\ExcelServiceProvider',
+    43 => 'Rap2hpoutre\\LaravelLogViewer\\LaravelLogViewerServiceProvider',
   ),
   'eager' => 
   array (
@@ -75,9 +74,8 @@
     23 => 'App\\Providers\\AuthServiceProvider',
     24 => 'App\\Providers\\EventServiceProvider',
     25 => 'App\\Providers\\RouteServiceProvider',
-    26 => 'App\\Providers\\PermissionServiceProvider',
-    27 => 'Maatwebsite\\Excel\\ExcelServiceProvider',
-    28 => 'Rap2hpoutre\\LaravelLogViewer\\LaravelLogViewerServiceProvider',
+    26 => 'Maatwebsite\\Excel\\ExcelServiceProvider',
+    27 => 'Rap2hpoutre\\LaravelLogViewer\\LaravelLogViewerServiceProvider',
   ),
   'deferred' => 
   array (
